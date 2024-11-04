@@ -1,0 +1,13 @@
+.header{
+    background-image: url(../../assets/banner.jpg);
+    background-size: cover;
+    height:200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header h1{
+    font-size:48px;
+    color: aliceblue;    
+}
